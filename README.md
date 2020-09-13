@@ -4,7 +4,7 @@
 
 ***For this project, was need to pick a dataset. Inspired on first module cases or a similar dataset to what was used in the lessons, in this case i picked up: [Data Scientist Jobs](https://www.kaggle.com/andrewmvd/data-scientist-jobs) from Kaggle.***
 
-Using This dataset, was need to choose 3 questions to answer from the data, and in this case i choose to answer 4 questions.
+Using This dataset, was need to choose 3 questions to answer from the data, and in this case i choose to answer 4 questions as ffollowing.
 
     > What’s the company with the highest number of data science jobs? What's it's Size?
     > What’s the best city to find a data science job?
