@@ -12,8 +12,3 @@ Using This dataset, was need to choose 3 aspire questions to answer from the dat
     > What are the most popular jobs of big data?
 
 After that  was made a predict model (Linear Regresion) to predict the minimum salary based on other features.
-
-
-
-![](https://blog.neomind.com.br/wp-content/uploads/2019/07/Capa-do-blog-770x200.jpg)
-
