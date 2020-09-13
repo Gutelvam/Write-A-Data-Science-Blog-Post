@@ -14,8 +14,6 @@ Using This dataset, was need to choose 3 aspire questions to answer from the dat
 After that  was made a predict model (Linear Regresion) to predict the minimum salary based on other features.
 
 
-[![](https://intellipaat.com/blog/wp-content/uploads/2016/11/What-is-Data-Science.docx.jpg)]
 
-
-
+![](https://www.eweek.com/imagesvr_ez/b2bezp/2020/07/Data.science.png?alias=article_hero)
 
