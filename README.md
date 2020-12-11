@@ -1,6 +1,6 @@
 # Data Scientist Nanodegree - Project 01
 
-#### This repository is source of Data Scientist Nanodegree project 1 (Write A Data Science Blog Post)
+#### This repository is source of Data Scientist Nanodegree project 1 ([Write A Data Science Blog Post](https://medium.com/@gutto.rdj/what-do-you-know-about-job-offers-for-data-scienist-771902918ce7))
 
 ***For this project, was need to pick a dataset. Inspired on first module cases or a similar dataset to what was used in the lessons, in this case i picked up: [Data Scientist Jobs](https://www.kaggle.com/andrewmvd/data-scientist-jobs) from Kaggle.***
 
